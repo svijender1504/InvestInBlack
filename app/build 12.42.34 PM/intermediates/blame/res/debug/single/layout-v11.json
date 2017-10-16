@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/vijendersingh/fingerprint_android/InvestInBlack/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/vijendersingh/.android/build-cache/ca8c7f337e4d4dc5ecc5149925d4f12826fe031d/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/vijendersingh/fingerprint_android/InvestInBlack/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/vijendersingh/.android/build-cache/ca8c7f337e4d4dc5ecc5149925d4f12826fe031d/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/vijendersingh/fingerprint_android/InvestInBlack/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/vijendersingh/.android/build-cache/ca8c7f337e4d4dc5ecc5149925d4f12826fe031d/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/vijendersingh/fingerprint_android/InvestInBlack/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/vijendersingh/.android/build-cache/ca8c7f337e4d4dc5ecc5149925d4f12826fe031d/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/vijendersingh/fingerprint_android/InvestInBlack/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/vijendersingh/.android/build-cache/ca8c7f337e4d4dc5ecc5149925d4f12826fe031d/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/vijendersingh/fingerprint_android/InvestInBlack/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/vijendersingh/.android/build-cache/ca8c7f337e4d4dc5ecc5149925d4f12826fe031d/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]

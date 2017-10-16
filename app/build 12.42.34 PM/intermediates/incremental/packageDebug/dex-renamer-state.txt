@@ -1,0 +1,7 @@
+#Mon Oct 16 12:40:11 EDT 2017
+base.0=/Users/vijendersingh/fingerprint_android/InvestInBlack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8e44883c52f20cc9900439e596ea20ada5a6dee7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/vijendersingh/fingerprint_android/InvestInBlack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e9eeebfe0c36434725c2c1ab00e882f1f4b1a0f4/classes.dex
+base.1=/Users/vijendersingh/fingerprint_android/InvestInBlack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e9eeebfe0c36434725c2c1ab00e882f1f4b1a0f4
+file.0=/Users/vijendersingh/fingerprint_android/InvestInBlack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8e44883c52f20cc9900439e596ea20ada5a6dee7/classes.dex

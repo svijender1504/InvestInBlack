@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vijendersingh/fingerprint_android/InvestInBlack/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/vijendersingh/fingerprint_android/InvestInBlack/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/vijendersingh/fingerprint_android/InvestInBlack/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/vijendersingh/fingerprint_android/InvestInBlack/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

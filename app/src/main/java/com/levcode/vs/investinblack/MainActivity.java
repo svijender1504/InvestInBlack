@@ -16,10 +16,6 @@ public class MainActivity extends AppCompatActivity {
         WebView browser = (WebView) findViewById(R.id.webview);
 
         browser.loadUrl("http://investinblack.co");
-//        Uri uri = Uri.parse("https://www.example.com");
-//        Intent intent = new Intent(Intent.ACTION_VIEW, uri);
-//        startActivity(intent);
-
 
     }
 }
